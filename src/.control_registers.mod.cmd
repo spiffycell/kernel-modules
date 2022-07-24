@@ -1,0 +1,1 @@
+cmd_/home/spiffycell/projects/kernel-modules/src/control_registers.mod := { echo  /home/spiffycell/projects/kernel-modules/src/control_registers.o;  echo; } > /home/spiffycell/projects/kernel-modules/src/control_registers.mod
