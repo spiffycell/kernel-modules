@@ -1,0 +1,1 @@
+cmd_/home/spiffycell/projects/kernel-modules/src/modules.order := {   echo /home/spiffycell/projects/kernel-modules/src/hello_kernel.ko;   echo /home/spiffycell/projects/kernel-modules/src/control.ko; :; } | awk '!x[$$0]++' - > /home/spiffycell/projects/kernel-modules/src/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/spiffycell/projects/kernel-modules/src/hello_kernel.mod := { echo  /home/spiffycell/projects/kernel-modules/src/hello_kernel.o;  echo; } > /home/spiffycell/projects/kernel-modules/src/hello_kernel.mod

@@ -1,0 +1,1 @@
+cmd_/home/spiffycell/projects/kernel-modules/src/hello_kernel.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/spiffycell/projects/kernel-modules/src/hello_kernel.ko /home/spiffycell/projects/kernel-modules/src/hello_kernel.o /home/spiffycell/projects/kernel-modules/src/hello_kernel.mod.o;  true

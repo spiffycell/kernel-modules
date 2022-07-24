@@ -1,0 +1,1 @@
+cmd_/home/spiffycell/projects/kernel-modules/src/Module.symvers := sed 's/\.ko$$/\.o/' /home/spiffycell/projects/kernel-modules/src/modules.order | scripts/mod/modpost -m -a  -o /home/spiffycell/projects/kernel-modules/src/Module.symvers -e -i Module.symvers   -T -
